@@ -11,4 +11,4 @@ line 27: channels: [ 'Quin69' ]
 ## Start the project
 npx nodemon index.js
 
-<img style="text-align: center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png" />
+<img align="middle" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png" />
