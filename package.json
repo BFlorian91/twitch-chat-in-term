@@ -1,0 +1,23 @@
+{
+  "name": "chatinterm",
+  "version": "1.0.0",
+  "description": "Just a chat view in terminal",
+  "main": "index.js",
+  "dependencies": {
+    "tmi.js": "^1.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BFlorian91/twitch-chat-in-term.git"
+  },
+  "author": "Florian Beaumont",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BFlorian91/twitch-chat-in-term/issues"
+  },
+  "homepage": "https://github.com/BFlorian91/twitch-chat-in-term#readme"
+}

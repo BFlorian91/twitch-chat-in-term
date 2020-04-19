@@ -24,7 +24,7 @@ const client = new tmi.Client({
 		secure: true,
 		reconnect: true
 	},
-	channels: [ 'Quin69' ]
+	channels: [ 'boddev' ]
 })
 
 client.connect()
